@@ -1,0 +1,6 @@
+{
+  "name": "Goyank Calisthenics - Street Workout Coach",
+  "description": "Guided calisthenics training, video tutorials, skill progression trees, and personalized progress tracking coached by Goyank Singh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
